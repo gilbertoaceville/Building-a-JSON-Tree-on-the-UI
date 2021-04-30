@@ -1,0 +1,5 @@
+.gridwrap{
+  display: grid;
+  grid-template-columns: 500px 1fr;
+  grid-gap: 1em;
+}
